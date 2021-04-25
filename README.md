@@ -27,8 +27,9 @@ To execute the script
 
 ```sh
  mkdir script
+ cd script
  git clone https://github.com/Dennissaminathan/adjust.git
- cd  script
+ cd  adjust
  python random_number.py
 ```
 ## Linux
@@ -47,7 +48,8 @@ To execute the script
 - Clone the git repository of the script and run the script
 ```sh
  mkdir script
+ cd script
  git clone https://github.com/Dennissaminathan/adjust.git
- cd  script
+ cd adjust
  python random_number.py
 ```
